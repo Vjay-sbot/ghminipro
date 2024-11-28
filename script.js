@@ -1,1 +1,1 @@
-javacript file
+<javacript file></javacript>
